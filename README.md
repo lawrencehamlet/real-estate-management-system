@@ -14,9 +14,6 @@ A console-based Real Estate Management System developed in C++, designed for lea
 - Transaction Management  
   - Record and display property transactions (sales, rentals)
 
-- Search & Filter  
-  - Search properties based on criteria like type, price, location, etc.
-
 - File Handling  
   - Persist data using text or binary files
 
@@ -35,7 +32,7 @@ A console-based Real Estate Management System developed in C++, designed for lea
 
 `bash
 git clone  https://github.com/lawrencehamlet/real-estate-management-system.git
-cd real-estate-management
+cd real-estate-management`
 
 ###2. Compile the Program
 
@@ -43,12 +40,14 @@ Use any C++ compiler (e.g., g++):
 
 `bash
 g++ main.cpp -o real_estate
+`
 
 ###3. Run the Executable
 
 `bash
-./real_estate      # Linux/Mac
-real_estate.exe    # Windows
+./main      # Linux/Mac
+main.exe    # Windows
+`
 
 ###3.Future Enhancements 
 
@@ -57,3 +56,7 @@ real_estate.exe    # Windows
 - Database integration (e.g., MySQL or SQLite)
 
 - User authentication and role-based access (admin, agent, buyer)
+  
+- Search & Filter properties based on criteria like type, price, location, etc.
+ 
+    
