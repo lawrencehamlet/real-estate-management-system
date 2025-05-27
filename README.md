@@ -34,7 +34,7 @@ A console-based Real Estate Management System developed in C++, designed for lea
 ### 1. Clone the Repository
 
 `bash
-git clone https://github.com/yourusername/real-estate-management.git
+git clone  https://github.com/lawrencehamlet/real-estate-management-system.git
 cd real-estate-management
 
 ###2. Compile the Program
